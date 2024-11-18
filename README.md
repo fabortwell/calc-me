@@ -92,5 +92,3 @@ A simple calculator application built with HTML, CSS, and JavaScript. The projec
 This project is licensed under the MIT License.
 
 --- 
-
-Feel free to tweak the language or structure further to match your style or project specifics!
